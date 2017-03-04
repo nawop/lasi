@@ -12,3 +12,5 @@ lasi ist ein, in ruby geschriebenes Tool für den faulen User das ihm erlaubt ei
 
 [JP]
 おはよ！ウイアブーです
+
+Current version: 0
